@@ -3,6 +3,6 @@ type: APPLICATION_MANIFEST
 gitFileConfig:
   branch: prod-adcapital
   connectorName: SE-Days-AD-Capital
-  filePath: Rookout
+  filePath: Rookout/portal-deployment.yaml
   useBranch: true
 storeType: Remote
